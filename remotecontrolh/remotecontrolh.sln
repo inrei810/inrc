@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remotecontrolh", "remotecontrolh\remotecontrolh.csproj", "{309492FA-C87F-4077-AE4C-0D1502F4C607}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A7A9CE6-D8FB-464D-81FA-BA350C2B663D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309492FA-C87F-4077-AE4C-0D1502F4C607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309492FA-C87F-4077-AE4C-0D1502F4C607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309492FA-C87F-4077-AE4C-0D1502F4C607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309492FA-C87F-4077-AE4C-0D1502F4C607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E72BEA-0CC9-479C-8330-2EF78C26DA4E}
+	EndGlobalSection
+EndGlobal
