@@ -1,0 +1,17 @@
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.csproj.AssemblyReference.cache
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.csproj.SuggestedBindingRedirects.cache
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.csproj.ResolveComReference.cache
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.Form1.resources
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.Form2.resources
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.Form3.resources
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\INRC.Form4.resources
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\INRC.Form5.resources
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\INRC.Properties.Resources.resources
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.csproj.GenerateResource.cache
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\remotecontrolh.csproj.CoreCompileInputs.cache
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\bin\Debug\INRC.exe.config
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\bin\Debug\INRC.exe
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\bin\Debug\INRC.pdb
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\INRC.exe
+C:\Users\cookie\Desktop\remotecontrolh\remotecontrolh\obj\Debug\INRC.pdb
